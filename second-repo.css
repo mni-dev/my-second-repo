@@ -20,7 +20,9 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-img {
+
+.image {
     width: 400px;
-    height: 400px;
+    height: 300px;
+    border: 2px solid red;
 }
